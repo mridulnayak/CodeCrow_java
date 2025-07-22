@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class Loops_table{
+    public static void main(String[] args){
+        Scanner s = new Scanner(System.in);
+        long ml; 
+        long num = s.nextLong();
+        for(long i =1;i<=10;i++){
+            ml = num*i;
+            System.out.println(num+" "+"x"+" "+i+" "+"="+" "+ml);
+}
+}
+}
+            
+   
+ 
+
+
+
+
+
+
