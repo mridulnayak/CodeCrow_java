@@ -1,3 +1,4 @@
+//was easy section but bit tricky and twisty
 class Solution{
 public String(String s){
   int m = s.length()-1; // help tp start from end of string
