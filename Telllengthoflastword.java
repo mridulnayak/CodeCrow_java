@@ -8,7 +8,7 @@ public String(String s){
     count++;
     i--;// and then also carry on the loop
   }
-  return count; 
+  return count; //returns count of alphabet or size of word at end
 }
 
 
